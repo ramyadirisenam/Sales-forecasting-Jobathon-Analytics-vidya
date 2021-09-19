@@ -1,0 +1,4 @@
+Auto regressive model ( AR model)
+ARIMA model
+
+Trend, seasonality decomposition
